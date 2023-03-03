@@ -1,4 +1,4 @@
-# Gerador de etiquetas
+# Gerador de etiquetas, duplo qrcode
 
 ## Sobre
 Este gerador de etiquetas auxiliará na implantação do GPSVista e ferramentas desenvolvidas pela regional Paraná, facilitando e otimizando a geração de qrcodes. São geradas aproximadamente 15 páginas por minuto, com 9 etiquetas e 12 qrcodes, totalizando 8.100 etiquetas e 16.200 qrcodes gerados no período de 1h.
@@ -6,7 +6,7 @@ Este gerador de etiquetas auxiliará na implantação do GPSVista e ferramentas 
 <br>
 
 <div align="center">
-  <img height="400" width="266" src="https://github.com/oscarlindbeck/gerador-etiqueta-duplo-qrcode-gpssa/tree/master/src/templates/example.png">
+  <img height="400" width="266" src="https://github.com/oscarlindbeck/gerador-etiqueta-duplo-qrcode-gpssa/blob/master/src/templates/example.png">
 </div>
 
 <br>
